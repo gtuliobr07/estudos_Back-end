@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main(){
+    int idade = 18;
+    printf("Sua idade é: %d\n",idade);
+    printf("essa é a idade");
+}
+/*
+printf("%s, %d, %i, %f, %e, %c")
+
+%s = para string(Uma cadeia de carracteres)
+%d = para inteiro no formato decimal
+%i = Equivalente a %d
+%f = para numero flutuante padrão obs:(você pode limitar o numero de casas decimais '%.2f' para duas casas como no exemplo)
+%e = para numero flutuante de notação cientifica
+%c = para caractere
+\n para pula linha
+*/
