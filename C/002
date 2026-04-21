@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(){
+    int idade = 16;
+    float altura = 1.70;
+    double peso = 90.4;
+    char sexo = 'm';
+    char nome[25] = 'getulio';
+}
